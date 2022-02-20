@@ -7,7 +7,8 @@ Xpenology(헤놀로지)
 
 ## Hyper-v에 헤놀로지 설치하기 
   1. 요구사항
-      ####1.1 환경: WIN 11 + hyper-v 
+  
+      ####1.1 환경: WIN 11 + hyper-v
       ####1.2 Util 
             #####- tinycore-redpill.v0.4.5.img Native용 img 파일
             #####- tinycore-redpill.v0.4.5.vmdk 가상화용 vmdk 파일
